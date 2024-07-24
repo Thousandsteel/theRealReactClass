@@ -1,0 +1,35 @@
+.head{
+  display: flex;
+  font-size: x-large;
+  
+  background-color: dimgrey;
+  justify-content: space-between;
+  color: white;
+  padding: 10px;
+ position: fixed;
+ width: 100%;
+ z-index: 1;
+}
+.nav{
+  display: flex;
+  column-gap: 40px;
+ margin-right: 10%;
+ font-size: x-large;
+}
+.search{
+  text-align: center;
+  margin-top: 20px;
+}
+.nav a:hover{
+  color: red;
+}
+.nav a{
+  color: black;
+}
+.logo{
+  color: black;
+}
+
+.cart{
+  padding-right: 30px;
+}

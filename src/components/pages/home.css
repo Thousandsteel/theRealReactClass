@@ -1,0 +1,16 @@
+.wlc {
+  text-align: center;
+  padding-top: 20%;
+  color: black;
+  
+  text-shadow: 2px 2px red;
+}
+
+.background-pic {
+  background-image: url("src/assets/shopping-pictures.avif");
+  height: 100vh;
+}
+.shopping{
+    text-align: center;
+    font-size: x-large;
+}
